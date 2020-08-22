@@ -9,14 +9,14 @@ Dilan's Travel guide also provides its users paid content - two informational pr
 Business challenge: Dilan wants to invest more time and money in expanding his business. Dilan needs business insights with identifying one country to focus his growth efforts, and run his business efficiently.   
 
 <b>Business Overview</b>
-Please review [Dilan's Travel Guide]("DilansTravelGuide-Overview.pdf")
+Please review [Dilan's Travel Guide](DilansTravelGuide-Overview.pdf).
 
 <b>Dilan Travel - Data management</b>
 
-DilanTravel blog site logs relevant information based on description in <a> href="DilansTravel - Data structure.pdf" </a>. 
+DilanTravel blog site logs relevant information based on description in [Dilan's Travel - Data Structure](DilansTravel - Data structure.pdf). 
   
-Please review detailed steps for data preparation  and data analysis in <a> href="DilansTravel-Data Mgmt.pdf" </a>.
+Please review detailed steps for data preparation  and data analysis in [Dilan's Travel Data Management](DilansTravel-Data Mgmt.pdf).
 
-Data anaylsis and visualization are implemented with Postgres SQL and Python - pandas, matplot (Jupyter notebook - <a> href="Biz_Analytics.ipynb" </a>) and, Microsoft Excel / Google Data Studio.
+Data anaylsis and visualization are implemented with Postgres SQL and Python - pandas, matplot (Jupyter notebook - [here](Biz_Analytics.ipynb) ) and, Microsoft Excel / Google Data Studio.
 
-Business insights on potentail growth areas is presented in <a> href="DilanTravel-BusinessAnalytics.pdf" </a>
+Business insights on potentail growth areas is presented in [Dilan's Travel Business Analytics](DilanTravel-BusinessAnalytics.pdf).

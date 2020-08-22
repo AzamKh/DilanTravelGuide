@@ -13,9 +13,9 @@ Please review [Dilan's Travel Guide](DilansTravelGuide-Overview.pdf).
 
 <b>Dilan Travel - Data management</b>
 
-DilanTravel blog site logs relevant information based on description in [Dilan's Travel - Data Structure](DilansTravel - Data structure.pdf). 
+DilanTravel blog site logs relevant information based on description in [Dilan's Travel - Data Structure](DilansTravel\ -\ Data structure.pdf). 
   
-Please review detailed steps for data preparation  and data analysis in [Dilan's Travel Data Management](DilansTravel-Data Mgmt.pdf).
+Please review detailed steps for data preparation  and data analysis in [Dilan's Travel Data Management](DilansTravel-Data\ Mgmt.pdf).
 
 Data anaylsis and visualization are implemented with Postgres SQL and Python - pandas, matplot (Jupyter notebook - [here](Biz_Analytics.ipynb) ) and, Microsoft Excel / Google Data Studio.
 

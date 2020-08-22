@@ -17,6 +17,6 @@ DilanTravel blog site logs relevant information based on description in [Dilan's
   
 Please review detailed steps for data preparation  and data analysis in [Dilan's Travel Data Management](DilansTravel-Data%20Mgmt.pdf).
 
-Data anaylsis and visualization are implemented with Postgres SQL and Python - pandas, matplot (Jupyter notebook - [here](Biz_Analytics.ipynb) ) and, Microsoft Excel / Google Data Studio.
+Data anaylsis and visualization are implemented with Postgres SQL and Python - pandas, matplot (Jupyter notebook - [click here](Biz_Analytics.ipynb)) and, Microsoft Excel / Google Data Studio.
 
 Business insights on potentail growth areas is presented in [Dilan's Travel Business Analytics](DilanTravel-BusinessAnalytics.pdf).

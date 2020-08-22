@@ -11,12 +11,14 @@ Business challenge: Dilan wants to invest more time and money in expanding his b
 <b>Business Overview</b>
 Please review [Dilan's Travel Guide](DilansTravelGuide-Overview.pdf).
 
-<b>Dilan Travel - Data management</b>
+Business insights on potential growth areas are presented in [Dilan's Travel Business Analytics](DilanTravel-BusinessAnalytics.pdf).
 
-DilanTravel blog site logs relevant information based on description in [Dilan's Travel - Data Structure](DilansTravel%20-%20Data%20structure.pdf). 
+<b>Dilan Travel - Data Insights</b>
+
+DilanTravel blog site logs relevant information based on description - [Dilan's Travel - Data Structure](DilansTravel%20-%20Data%20structure.pdf). 
   
-Please review detailed steps for data preparation  and data analysis in [Dilan's Travel Data Management](DilansTravel-Data%20Mgmt.pdf).
+Please review detailed steps for data preparation and data analysis - [Dilan's Travel Data Management](DilansTravel-Data%20Mgmt.pdf).
 
-Data anaylsis and visualization are implemented with Postgres SQL and Python - pandas, matplot (Jupyter notebook - [click here](Biz_Analytics.ipynb)) and, Microsoft Excel / Google Data Studio.
+Data anaylsis and visualization are implemented with Bash scripts, Postgres SQL, Python (pandas, matplot) and, Microsoft Excel / Google Data Studio.
+Please refer to Jupyter notebook - [click here](Biz_Analytics.ipynb)) and SQL, SH files for source code.
 
-Business insights on potentail growth areas is presented in [Dilan's Travel Business Analytics](DilanTravel-BusinessAnalytics.pdf).

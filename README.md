@@ -20,5 +20,5 @@ Please review detailed steps for data preparation and data analysis - [Dilan's T
 
 Data anaylsis and visualization are implemented with Bash scripts, Postgres SQL, Python (pandas, matplot) and, Microsoft Excel / Google Data Studio.
 
-Please refer to Jupyter notebook - [click here](Biz_Analytics.ipynb)) and SQL, SH files for source code.
+Please refer to Jupyter notebook ([click here](Biz_Analytics.ipynb)) and SQL, SH files for source code.
 

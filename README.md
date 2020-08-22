@@ -9,7 +9,7 @@ Dilan's Travel guide also provides its users paid content - two informational pr
 Business challenge: Dilan wants to invest more time and money in expanding his business. Dilan needs business insights with identifying one country to focus his growth efforts, and run his business efficiently.   
 
 <b>Business Overview</b>
-Please review <a> href="DilansTravelGuide-Overview.pdf" </a>
+Please review [Dilan's Travel Guide]("DilansTravelGuide-Overview.pdf")
 
 <b>Dilan Travel - Data management</b>
 

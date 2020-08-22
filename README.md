@@ -1,6 +1,6 @@
 # DilanTravelGuide
 
-Data Science project for Dilan's Travel guide 
+<b>Data Science project for Dilan's Travel guide.</b> 
 
 Dilan's Travel guide is an online business (fictional) that provides travel information and travel guides. 
 Users visit the site based on digital marketing with AdWords, Reddit, SEO. 
